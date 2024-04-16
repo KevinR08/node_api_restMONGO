@@ -1,0 +1,22 @@
+{
+  "name": "practicanodejs",
+  "version": "1.0.0",
+  "description": "Iniciando proyecto node",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "Kevin R",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "env-var": "^7.4.1",
+    "express": "^4.19.2",
+    "json-server": "^1.0.0-alpha.23",
+    "mongoose": "^8.3.1"
+  }
+}

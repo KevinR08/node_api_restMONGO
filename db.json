@@ -1,0 +1,53 @@
+{
+    "profesores": [
+        {
+            "nombre":"Kevin",
+            "apellido": "Rivadeneira",
+            "materiasl":[
+                {
+                    "nombre": "NodeJS desde cero"
+                },
+                {
+                    "nombre": "REACTjs desde cero"
+                },
+                {
+                    "nombre": "Javascript desde cero"
+                }
+            ]
+        }
+    ],
+
+
+    "alumnos":[
+        {
+            "nombre": "María",
+            "apellido": "Rodriguez",
+            "promedio": 80.8
+        },
+        {
+            "nombre": "Juan",
+            "apellido": "Magan",
+            "promedio": 15.8 
+        }
+    ],
+
+
+    "cursos":[
+        {
+            "nombre": "NodeJS desde cero",
+            "duracion": 7,
+            "dificultad": "intermedia"
+        },
+        {
+            "nombre": "REACTjs desde cero",
+            "duracion": 8,
+            "dificultad": "Avanzado"
+        },
+        {
+            "nombre": "Javascript desde cero",
+            "duracion": 5,
+            "dificultad": "Bajo"
+        }
+    ]
+
+}
